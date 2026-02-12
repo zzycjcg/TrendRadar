@@ -106,18 +106,10 @@ platforms:
       name: "V2EX"
     - id: "nowcoder"
       name: "牛客网"
-    - id: "pcbeta"
-      name: "远景论坛"
     - id: "sspai"
       name: "少数派"
     - id: "producthunt"
       name: "Product Hunt"
-
-    # === 其他/工具类 ===
-    - id: "chongbuluo"
-      name: "虫部落"
-    - id: "tencent-hot"
-      name: "腾讯新闻 综合早报"
 
 # === 通用热点聚合（可选主监控源）===
 # 注：以下已在上述分类中定义，此处仅作说明，无需重复添加
